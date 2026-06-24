@@ -1,16 +1,112 @@
-# React + Vite
+```md
+# 👋 Leah Wanjiru Kirunyu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+I am an aspiring Full-Stack Developer . I am passionate about building web applications, solving problems, and continuously improving my software development skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Current Learning
 
-## React Compiler
+- Laravel
+- React
+-Postgres
+- RESTful APIs
+- Authentication and Authorization
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see (https://react.dev/learn/react-compiler/installation).
+## Technical Skills
 
-## Expanding the ESLint configuration
+### Frontend Development
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- HTML
+- CSS
+- JavaScript
+
+### Backend Development
+
+- PHP
+- Laravel (Currently Learning)
+
+### Database Management
+
+- MySQL
+-Postgres
+### Development Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+## Projects
+
+### 🏫 School Feedback System
+
+#### Overview
+
+The School Feedback System is a web-based application that enables students to submit feedback and allows administrators to review and manage submitted feedback.
+
+#### Role of Students
+
+Students are responsible for providing feedback about lecturers.
+
+#### Student Authentication
+
+Students enter their admission number to log in.
+
+#### Student Features
+
+- Login using admission number.
+- Access the feedback form upon successful login.
+- Submit feedback.
+- Store feedback securely in the database.
+
+#### Role of Administrator
+
+The administrator oversees the feedback management process and monitors all submitted feedback.
+
+#### Administrator Authentication
+
+Administrators enter a username and access code to log in.
+
+#### Administrator Features
+
+- Secure administrator login.
+- Access the administration dashboard.
+- View all submitted student feedback.
+- Monitor and manage feedback records.
+
+#### Technologies Used
+
+- HTML
+- CSS
+- PHP
+- MySQL
+
+## Career Goals
+
+### Short-Term Goals
+
+- Master Laravel fundamentals.
+- Learn React and modern frontend development.
+- Build more full-stack projects.
+
+### Long-Term Goals
+
+- Become a Professional Full-Stack Developer.
+- Contribute to open-source projects.
+- Develop scalable and secure web applications.
+
+## GitHub Profile
+
+### Username
+
+leahwanjirukirunyu-cloud
+
+## Contact
+
+Feel free to explore my repositories and connect with me through GitHub.
+
+## Thank You
+
+Thank you for visiting my profile and reviewing my work. ⭐
+```
